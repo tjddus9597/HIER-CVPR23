@@ -9,5 +9,4 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch \
     --lambda1 1 --lambda2 0.5 --topk 20 --mrg 0.1 \
     --dataset Cars --model resnet50 \
     --IPC 2 --loss PA --emb 512 --bn_freeze True --use_lastnorm True \
-    --optimizer adamw --lr_decay 10 --lr_decay_gamma 0.5 \
-    --data_path /home/tjddus9597/Data/DML
+    --optimizer adamw --lr_decay 10 --lr_decay_gamma 0.5
