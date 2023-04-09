@@ -101,8 +101,8 @@ Our source code is modified and adapted on these great repositories:
 If you use this method or this code in your research, please cite as:
 
     @inproceedings{kim2023hier,
-    title={HIER: Metric Learning Beyond Class Labels via Hierarchical Regularization},
-    author={Kim, Sungyeon and Jeong, Boseung and Kwak, Suha},
-    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-    year={2023}
+      title={HIER: Metric Learning Beyond Class Labels via Hierarchical Regularization},
+      author={Kim, Sungyeon and Jeong, Boseung and Kwak, Suha},
+      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      year={2023}
     }
