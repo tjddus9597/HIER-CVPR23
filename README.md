@@ -34,7 +34,7 @@ that HIER discovers and deploys latent and meaningful hierarchies between data i
 
 See [this example](umap_vis_cars.ipynb) for how to produce these visualizations. 
 
-### Experimental Restuls
+### Experimental Results
 <p align="center"><img src="misc/table.png" alt="graph" width="95%"></p>
 
 ## Installation
