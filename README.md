@@ -1,6 +1,4 @@
-<div align="left">
-  <h1>HIER: Metric Learning Beyond Class Labels <br> via Hierarchical Regularization (CVPR 2023) </h1>
-</div>
+# HIER: Metric Learning Beyond Class Labels <br> via Hierarchical Regularization (CVPR 2023)
 
 <div align="left">
   <h4> <a href=https://cvlab.postech.ac.kr/~sungyeon>Sungyeon Kim</a>, <a href=https://scholar.google.com/citations?user=CiQLGVMAAAAJ&hl>Boseung Jeong</a>, <a href=https://suhakwak.github.io/>Suha Kwak</a> </h4>
