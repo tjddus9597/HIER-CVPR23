@@ -1,0 +1,20 @@
+name: hier
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+  - cudatoolkit
+  - pytorch==1.8.1+cu111
+  - torchvision==0.9.1+cu111
+  - numpy
+  - timm==0.4.12
+  - jupyter
+  - pip:
+    - pillow
+    - scipy
+    - pytorch_metric_learning 
+    - wandb
+    - pandas
