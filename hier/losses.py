@@ -11,7 +11,6 @@ import torch.distributed as dist
 
 import hyptorch.pmath as pmath
 import hyptorch.nn as hypnn
-import hyptorch.lca as hylca
 from hyptorch.pmath import dist_matrix
 
     
