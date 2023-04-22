@@ -32,7 +32,7 @@ shows that samples in a sub-tree share common semantics,
 although not of the same class. This visualization proves
 that HIER discovers and deploys latent and meaningful hierarchies between data in the embedding space.
 
-See [this example](umap_vis_cars.ipynb) for how to produce these visualizations. 
+See [this example](./examples/umap_vis_cars.ipynb) for how to produce these visualizations. 
 
 ### Experimental Results
 <p align="center"><img src="misc/table.png" alt="graph" width="95%"></p>
