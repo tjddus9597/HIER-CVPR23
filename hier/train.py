@@ -305,7 +305,7 @@ if __name__ == "__main__":
     for epoch in range(args.epochs):
         if sampler is not None and args.IPC > 0:
             sampler.set_epoch(epoch)
-        # ============ training one epoch of iBOT ... ============
+        # ============ training one epoch ... ============
         train_stats = train_one_epoch(model, cluster_loss, sup_metric_loss, get_emb_s, data_loader, optimizer, 
                                       lr_schedule, epoch, fp16_scaler, args)
 
